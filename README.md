@@ -5,7 +5,7 @@
 \-Enjoys creating and innovating ML/AI systems for biomedical/bioinformatic problems
 
 ### 
-<img align="right" height="135" src="https://c.tenor.com/MStL2a9cyJ0AAAAC/tenor.gif"  />
+%%<img align="right" height="135" src="https://c.tenor.com/MStL2a9cyJ0AAAAC/tenor.gif"  />%%
 
 ### Skills
 
